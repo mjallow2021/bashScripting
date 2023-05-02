@@ -9,7 +9,7 @@ age=0
 while [ $age -le 21 ]
 do
 	echo "You are $age years old"
-	(( age++ ))
+	(( $age++ ))
 done
 
 echo  "We have safely exited the while loop"
