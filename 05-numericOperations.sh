@@ -5,7 +5,7 @@
 num=15
 num1=3
 
-we can do all these with them
+#we can do all these with them
 #echo  ($num + $num1) #wrong way
 
 let total=$num+$num1 
